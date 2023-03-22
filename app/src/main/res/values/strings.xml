@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Swrve</string>
+    <string name="todo">TODO</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="download">Download</string>
+    <string name="database_error">Error inserting into database</string>
+    <string name="ok">OK</string>
+</resources>
